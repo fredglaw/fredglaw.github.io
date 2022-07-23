@@ -7,8 +7,6 @@ title: Research
 
 ---
 
----
-
 # Multifidelity uncertainty quantification in nuclear fusion devices
 
 During nuclear fusion, highly energetic alpha particles will be randomly born as a byproduct of the primary deuterium-tritium reaction. Such particles pose a danger to successful nuclear fusion, as they can escape the confining magnetic field which leads to both fusion plasma cooling as well as potential damage to the fusion device.
@@ -22,4 +20,4 @@ To accelerate estimating confinement, we utilize the multifidelity Monte Carlo (
 Current work is focused on extending our multifidelity methodology to construct new estimators which can simultaneously leverage multiple sources of variance reduction, with the goal of yielding sufficient speedup to rend tractable outer-loop applications, namely stellarator optimization.
 
 <sup>Relevent publications:</sup>
-* <sup>F. Law, A. Cerfon, B. Peherstorfer (2022) Accelerating the estimation of collisionless energetic particle confinement statistics in stellarators using multifidelity Monte Carlo, *Nucl. Fusion* **62** 076019 [doi.org/10.1088/1741-4326/ac4777](https://doi.org/10.1088/1741-4326/ac4777) </sup>
+<sup> 1. F. Law, A. Cerfon, B. Peherstorfer (2022) Accelerating the estimation of collisionless energetic particle confinement statistics in stellarators using multifidelity Monte Carlo, *Nucl. Fusion* **62** 076019 [doi.org/10.1088/1741-4326/ac4777](https://doi.org/10.1088/1741-4326/ac4777) </sup>

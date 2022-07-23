@@ -7,7 +7,6 @@ title: Home
 
 ---
 
----
 
 <img align="right" width="269" height="269" src="images/circle-me.png">
 
