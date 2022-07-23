@@ -18,6 +18,8 @@ My research interests lie in numerical analysis and scientific computing. Some s
 - Data-driven techniques for building surrogate solutions of dynamical systems and differential equations.
 - Numerical methods for problems in plasma physics
 
+My CV can be found here:
+
 
 <!--I am a graduate student in the [Research and Training Group (RTG) in Mathematical Modeling and Simulation](https://math.nyu.edu/dynamic/research/pages/research-and-training-group-mathematical-modeling-and-simulation/). I am also an [NDSEG](https://ndseg.sysplus.com/) Fellow. -->
 
