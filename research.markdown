@@ -19,6 +19,6 @@ To accelerate estimating confinement, we utilize the multifidelity Monte Carlo (
 
 Current work is focused on extending our multifidelity methodology to construct new estimators which can simultaneously leverage multiple sources of variance reduction, with the goal of yielding sufficient speedup to rend tractable outer-loop applications, namely stellarator optimization.
 
-<supRelevent publications:</sup>
+<sup>Relevent publications:</sup>
 
-&nbsp <sup> F. Law, A. Cerfon, B. Peherstorfer (2022) Accelerating the estimation of collisionless energetic particle confinement statistics in stellarators using multifidelity Monte Carlo, *Nucl. Fusion* **62** 076019 [doi.org/10.1088/1741-4326/ac4777](https://doi.org/10.1088/1741-4326/ac4777) </sup>
+&nbsp; <sup> F. Law, A. Cerfon, B. Peherstorfer (2022) Accelerating the estimation of collisionless energetic particle confinement statistics in stellarators using multifidelity Monte Carlo, *Nucl. Fusion* **62** 076019 [doi.org/10.1088/1741-4326/ac4777](https://doi.org/10.1088/1741-4326/ac4777) </sup>
