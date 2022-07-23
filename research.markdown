@@ -7,6 +7,8 @@ title: Research
 
 ---
 
+---
+
 # Multifidelity uncertainty quantification in nuclear fusion devices
 
 During nuclear fusion, highly energetic alpha particles will be randomly born as a byproduct of the primary deuterium-tritium reaction. Such particles pose a danger to successful nuclear fusion, as they can escape the confining magnetic field which leads to both fusion plasma cooling as well as potential damage to the fusion device.
