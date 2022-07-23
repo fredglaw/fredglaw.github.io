@@ -3,26 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 
-title: Home
+title: Research
 ---
 
-<img align="right" width="269" height="269" src="images/circle-me.png">
-
-
-I am a fourth year PhD student at the Courant Institute of Mathematical Sciences, New York University, co-advised by [Benjamin Peherstorfer](https://cims.nyu.edu/~pehersto/) and [Antoine Cerfon](https://www.math.nyu.edu/~cerfon/). I am a 2020 [DoD-NDSEG](https://ndseg.sysplus.com/) Fellow as well as a member of the [Research and Training Group (RTG) in Mathematical Modeling and Simulation](https://math.nyu.edu/dynamic/research/pages/research-and-training-group-mathematical-modeling-and-simulation/).
-
-Prior to joining Courant I received a B.A. in applied mathematics and a B.A. in statistics from the University of California, Berkeley.
-
-My research interests lie in numerical analysis and scientific computing. Some specific areas include:
-- Multifidelity methods for uncertainty quantification, with applications in computational physics
-- Data-driven techniques for building surrogate solutions of dynamical systems and differential equations.
-- Numerical methods for problems in plasma physics
-
-More information about me can be found in my [CV](https://fredglaw.github.io/assets/cv.pdf)
-
----
-
-## Multifidelity uncertainty quantification in nuclear fusion devices
+# Multifidelity uncertainty quantification in nuclear fusion devices
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi porttitor congue eros vel tincidunt. Ut mollis augue sit amet nulla sodales, eu suscipit metus scelerisque. Nulla non quam eget justo cursus volutpat eget non nibh. Quisque metus nisl, gravida eget aliquam ut, luctus volutpat lectus. Mauris euismod ut nibh et mattis. Phasellus dapibus id turpis eget iaculis. Sed diam massa, posuere ut viverra eget, viverra in lectus. Maecenas porta nisl dapibus mauris interdum tincidunt. In luctus a nisl egestas pellentesque. Phasellus fermentum in lorem vitae commodo. Praesent at dictum lorem, ut posuere odio. Vivamus diam sem, blandit vitae ultricies quis, scelerisque sit amet felis. Praesent sed semper eros.
 
