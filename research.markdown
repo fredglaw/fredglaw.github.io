@@ -4,21 +4,13 @@
 
 
 title: Research
+
 ---
 
 # Multifidelity uncertainty quantification in nuclear fusion devices
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi porttitor congue eros vel tincidunt. Ut mollis augue sit amet nulla sodales, eu suscipit metus scelerisque. Nulla non quam eget justo cursus volutpat eget non nibh. Quisque metus nisl, gravida eget aliquam ut, luctus volutpat lectus. Mauris euismod ut nibh et mattis. Phasellus dapibus id turpis eget iaculis. Sed diam massa, posuere ut viverra eget, viverra in lectus. Maecenas porta nisl dapibus mauris interdum tincidunt. In luctus a nisl egestas pellentesque. Phasellus fermentum in lorem vitae commodo. Praesent at dictum lorem, ut posuere odio. Vivamus diam sem, blandit vitae ultricies quis, scelerisque sit amet felis. Praesent sed semper eros.
+During nuclear fusion, highly energetic alpha particles will be randomly born as a byproduct of the primary deuterium-tritium reaction. Such particles pose a danger to successful nuclear fusion, as they can escape the confining magnetic field which leads to both fusion plasma cooling as well as potential damage to the fusion device. Metrics of confinement for these energetic particles, such as loss fraction, require propagating the initial uncertainty in energetic particle birth position and velocity through their governing dynamics. Subsequently, standard Monte Carlo (MC) estimation of confinement properties is costly for even a single configuration, and thus infeasible for outer-loop applications. As a result, estimating energetic particle confinement is currently one of the most costly aspects of stellarator optimization.
 
-Vestibulum velit lorem, varius at volutpat a, vestibulum ac urna. Morbi eu turpis vitae diam gravida luctus ac eu sapien. Quisque ut viverra tellus. Nullam vel ipsum ac justo porta aliquet ut volutpat augue. Donec volutpat metus id tortor ultricies, feugiat tincidunt augue lobortis. Quisque at posuere enim. Nunc a ornare velit. Vivamus finibus erat ex, ac posuere nulla feugiat sed. Vivamus vitae elit ut risus sodales accumsan. Mauris ut rhoncus nulla. Vestibulum porta lectus nisi, in lacinia sapien condimentum et. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+<img align="left" width="500" src="images/passing-trapped-3D.png">
 
-
-<img align="left" width="300" src="images/passing-trapped-3D.png">
-
-Praesent vel dapibus lectus. Morbi rhoncus mattis ipsum, ac volutpat diam pellentesque in. Cras id sollicitudin lacus. Morbi lobortis mauris sapien. Etiam vehicula quam id faucibus rhoncus. Nullam imperdiet cursus enim. Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer quis bibendum velit, eu feugiat felis. Nulla elit massa, finibus vel ipsum et, iaculis cursus odio. Nunc pharetra eros id purus scelerisque, non mollis purus sollicitudin.
-
-Duis consequat erat a urna ullamcorper sollicitudin. Duis iaculis, odio vel consectetur pulvinar, turpis libero aliquet neque, et finibus libero nisi id lorem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Suspendisse commodo, orci vitae cursus dictum, dui leo semper libero, et fringilla elit lacus nec sapien. Praesent laoreet nisi blandit dui lobortis tincidunt. In hac habitasse platea dictumst. Phasellus id turpis imperdiet, tristique diam finibus, efficitur leo. Pellentesque vehicula diam nisl, malesuada rutrum elit porttitor non. Sed ut diam sagittis, hendrerit augue quis, venenatis lacus. Aliquam erat volutpat. Donec eget urna dolor. Mauris et sem eu metus viverra lobortis sit amet consequat diam. Quisque consectetur orci ac sem fermentum, at luctus nulla aliquam. Phasellus eleifend molestie sapien id tincidunt.
-
-<!--I am a graduate student in the [Research and Training Group (RTG) in Mathematical Modeling and Simulation](https://math.nyu.edu/dynamic/research/pages/research-and-training-group-mathematical-modeling-and-simulation/). I am also an [NDSEG](https://ndseg.sysplus.com/) Fellow. -->
-
-You can reach me at Law@cims.@nyu.edu, or at 504 Warren Weaver Hall.
+To accelerate estimating confinement, we utilize the multifidelity Monte Carlo (MFMC) estimator, which leverages a surrogate model to provide variance reduction compared to MC. Since traditional sources of surrogate models are inappropriate for energetic particle dynamics, we employ a data-driven surrogate model designed specifically for use in a multifidelity context.  This approach has been successful for speeding up estimation of various metrics of confinement across multiple particle tracing times on a single configuration (Wistell-A). Current work is focused on extending our multifidelity methodology to construct new estimators which can simultaneously leverage multiple sources of variance reduction, with the goal of yielding sufficient speedup to rend tractable outer-loop applications, namely stellarator optimization.
