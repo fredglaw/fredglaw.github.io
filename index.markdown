@@ -11,7 +11,7 @@ title: Home
 <img align="right" width="269" height="269" src="images/circle-me.png">
 
 
-I am a fourth year PhD student at the Courant Institute of Mathematical Sciences, New York University, co-advised by [Benjamin Peherstorfer](https://cims.nyu.edu/~pehersto/) and [Antoine Cerfon](https://www.math.nyu.edu/~cerfon/). I am a 2020 [DoD-NDSEG](https://ndseg.sysplus.com/) Fellow as well as a member of the [Research and Training Group (RTG) in Mathematical Modeling and Simulation](https://math.nyu.edu/dynamic/research/pages/research-and-training-group-mathematical-modeling-and-simulation/).
+I am a fifth year PhD student at the Courant Institute of Mathematical Sciences, New York University, co-advised by [Benjamin Peherstorfer](https://cims.nyu.edu/~pehersto/) and [Antoine Cerfon](https://www.math.nyu.edu/~cerfon/). I am a 2020 [DoD-NDSEG](https://ndseg.sysplus.com/) Fellow as well as a member of the [Research and Training Group (RTG) in Mathematical Modeling and Simulation](https://math.nyu.edu/dynamic/research/pages/research-and-training-group-mathematical-modeling-and-simulation/).
 
 Prior to joining Courant I received a B.A. in applied mathematics and a B.A. in statistics from the University of California, Berkeley.
 
