@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-# title: Frederick Law
+title: ""
 # email: Law@cims.nyu.edu
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -48,13 +48,13 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 # header_pages: 
 # - about.markdown
 
-minimal_mistakes_skin: "dirt"
+minimal_mistakes_skin: "sunrise"
 
 author: email link
 
 author:
   name: "Frederick Law"
-  avatar: "/images/me.jpg"
+  # avatar: "/images/me.jpg"
   bio: "Applied Mathematician" # Note: Markdown is allowed
   location: "New York City, USA"
   links:
