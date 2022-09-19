@@ -27,15 +27,19 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  fredglaw
 
 # Build settings
-theme: minima
+# theme: minima
+theme: minimal-mistakes-jekyll
 #theme: panthera-jekyll
 #theme: plainwhite
 #remote_theme: christianezeani/panthera-jekyll
 plugins:
   - jekyll-feed
 
-minima:
-  skin: dark
+# minima:
+#   skin: dark
+
+minimal-mistakes-jekyll:
+  skin: sunrise
 
 header_pages: 
 # - about.markdown
