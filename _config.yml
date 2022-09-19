@@ -34,6 +34,7 @@ theme: minimal-mistakes-jekyll
 #remote_theme: christianezeani/panthera-jekyll
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 # minima:
 #   skin: dark
