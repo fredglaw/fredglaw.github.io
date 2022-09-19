@@ -55,7 +55,7 @@ author: email link
 author:
   name: "Frederick Law"
   avatar: "/assets/images/me.jpg"
-  bio: "ooooooho" # Note: Markdown is allowed
+  bio: "Applied Mathematician" # Note: Markdown is allowed
   location: "New York City, USA"
   links:
     - label: "GitHub"
@@ -73,3 +73,13 @@ sidebar:
     text: "Some text here."
   - title: "Another Title"
     text: "More text here."
+
+
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true

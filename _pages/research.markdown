@@ -14,7 +14,7 @@ permalink: /research/
 
 During nuclear fusion, highly energetic alpha particles will be randomly born as a byproduct of the primary deuterium-tritium reaction. Such particles pose a danger to successful nuclear fusion, as they can escape the confining magnetic field which leads to both fusion plasma cooling as well as potential damage to the fusion device.
 
-<img align="right" width="400" src="images/passing-trapped-3D.png">
+<img align="right" width="400" src="../images/passing-trapped-3D.png">
 
 Metrics of confinement for these energetic particles, such as loss fraction, require propagating the initial uncertainty in energetic particle birth position and velocity through their governing dynamics. Subsequently, standard Monte Carlo (MC) estimation of confinement properties is costly for even a single configuration, and thus infeasible for outer-loop applications. As a result, estimating energetic particle confinement is currently one of the most costly aspects of stellarator optimization.
 
