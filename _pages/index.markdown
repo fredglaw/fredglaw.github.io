@@ -18,7 +18,6 @@ I am a fifth year PhD student at the Courant Institute of Mathematical Sciences,
 Prior to joining Courant I received a B.A. in applied mathematics and a B.A. in statistics from the University of California, Berkeley.
 
 <br/>
-<br/>
 
 My research interests lie in numerical analysis and scientific computing. Some specific areas include:
 - Multifidelity methods for uncertainty quantification, with applications in computational physics
