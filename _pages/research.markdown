@@ -3,7 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 
+author_profile: true
+classes: wide
 title: Research
+permalink: /research/
 
 ---
 

@@ -5,6 +5,7 @@
 author_profile: true
 classes: wide
 title: Home
+permalink: /
 
 ---
 
