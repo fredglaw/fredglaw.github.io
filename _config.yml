@@ -25,7 +25,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username:
 github_username:  fredglaw
-include: ["_pages"]
+include: "_pages"
 
 # Build settings
 # theme: minima
@@ -54,16 +54,16 @@ author: email link
 
 author:
   name: "Frederick Law"
-  avatar: "/assets/images/me.jpg"
+  avatar: "/images/me.jpg"
   bio: "Applied Mathematician" # Note: Markdown is allowed
   location: "New York City, USA"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/fredglaw/"
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-    #   url: "https://instagram.com/mmistakes"
+    - label: "Google"
+      icon: "fab fa-fw fa-google"
+      url: "https://scholar.google.com/citations?user=ahf4Hf0AAAAJ&hl=en&oi=sra"
 
 
 sidebar:
