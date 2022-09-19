@@ -55,7 +55,7 @@ author: email link
 author:
   name: "Frederick Law"
   # avatar: "/images/me.jpg"
-  bio: "Applied Mathematician" # Note: Markdown is allowed
+  bio: "PhD Candidate in Applied Mathematics" # Note: Markdown is allowed
   location: "New York City, USA"
   links:
     - label: "GitHub"
