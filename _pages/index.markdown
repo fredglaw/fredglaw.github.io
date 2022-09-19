@@ -10,7 +10,7 @@ permalink: /
 ---
 
 
-<img align="left" width="300" height="300" src="../images/circle-me.png">
+<img align="left" width="320" height="320" src="../images/circle-me-padded.png">
 
 
 I am a fifth year PhD student at the Courant Institute of Mathematical Sciences, New York University, co-advised by [Benjamin Peherstorfer](https://cims.nyu.edu/~pehersto/) and [Antoine Cerfon](https://www.math.nyu.edu/~cerfon/). I am a 2020 [DoD-NDSEG](https://ndseg.sysplus.com/) Fellow as well as a member of the [Research and Training Group (RTG) in Mathematical Modeling and Simulation](https://math.nyu.edu/dynamic/research/pages/research-and-training-group-mathematical-modeling-and-simulation/).
