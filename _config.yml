@@ -28,7 +28,7 @@ github_username:  fredglaw
 
 # Build settings
 # theme: minima
-theme: minimal-mistakes-jekyll
+# theme: minimal-mistakes-jekyll
 #theme: panthera-jekyll
 #theme: plainwhite
 #remote_theme: christianezeani/panthera-jekyll
@@ -39,7 +39,7 @@ plugins:
 # minima:
 #   skin: dark
 
-# remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 # minimal-mistakes-jekyll:
   # skin: sunrise
