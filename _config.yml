@@ -28,7 +28,7 @@ github_username:  fredglaw
 
 # Build settings
 # theme: minima
-# theme: minimal-mistakes-jekyll
+theme: minimal-mistakes-jekyll
 #theme: panthera-jekyll
 #theme: plainwhite
 #remote_theme: christianezeani/panthera-jekyll
@@ -39,7 +39,7 @@ plugins:
 # minima:
 #   skin: dark
 
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+# remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 # minimal-mistakes-jekyll:
   # skin: sunrise
@@ -51,15 +51,6 @@ minimal_mistakes_skin: "dirt"
 
 author: email link
 
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      author_profile: true
-
-      
 author:
   name: "Frederick Law"
   avatar: "/assets/images/me.jpg"
@@ -72,3 +63,12 @@ author:
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/mmistakes"
+
+
+sidebar:
+  - title: "Title"
+    image: http://placehold.it/350x250
+    image_alt: "image"
+    text: "Some text here."
+  - title: "Another Title"
+    text: "More text here."
