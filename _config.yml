@@ -28,21 +28,23 @@ github_username:  fredglaw
 
 # Build settings
 # theme: minima
-theme: minimal-mistakes-jekyll
+# theme: minimal-mistakes-jekyll
 #theme: panthera-jekyll
 #theme: plainwhite
 #remote_theme: christianezeani/panthera-jekyll
 plugins:
-  - jekyll-feed
+  # - jekyll-feed
   - jekyll-include-cache
 
 # minima:
 #   skin: dark
 
-minimal-mistakes-jekyll:
-  skin: sunrise
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
-header_pages: 
+# minimal-mistakes-jekyll:
+  # skin: sunrise
+
+# header_pages: 
 # - about.markdown
 
 
