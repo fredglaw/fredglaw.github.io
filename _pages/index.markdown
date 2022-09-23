@@ -6,6 +6,7 @@ author_profile: true
 classes: wide
 # title: Home
 permalink: /
+fontsize: 24pt
 
 ---
 
@@ -19,7 +20,6 @@ Prior to joining Courant I received a B.A. in applied mathematics and a B.A. in 
 
 <br/>
 
-<font size="2"> 
 My research interests lie in numerical analysis and scientific computing. Some specific areas include:
 - Multifidelity methods for uncertainty quantification, with applications in computational physics
 - Data-driven techniques for building surrogate solutions of dynamical systems and differential equations.
@@ -28,4 +28,3 @@ My research interests lie in numerical analysis and scientific computing. Some s
 More information about me can be found in my [CV](https://fredglaw.github.io/assets/cv.pdf).
 
 You can reach me at Law@cims.@nyu.edu, or at 504 Warren Weaver Hall.
-</font>
